@@ -1,0 +1,10 @@
+C:\Users\Aleks\source\repos\6.3F\6.3F\bin\Debug\6.3F.exe.config
+C:\Users\Aleks\source\repos\6.3F\6.3F\bin\Debug\6.3F.exe
+C:\Users\Aleks\source\repos\6.3F\6.3F\bin\Debug\6.3F.pdb
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\6.3F.csprojAssemblyReference.cache
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\_6._3F.Form1.resources
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\_6._3F.Properties.Resources.resources
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\6.3F.csproj.GenerateResource.cache
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\6.3F.csproj.CoreCompileInputs.cache
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\6.3F.exe
+C:\Users\Aleks\source\repos\6.3F\6.3F\obj\Debug\6.3F.pdb
